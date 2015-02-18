@@ -3031,7 +3031,8 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
   .aui #navigation .nav li.active > a {
     background-color: #8096b1; }
   .aui #navigation .nav > li > a {
-    padding: 4px 15px 5px; }
+    padding: 10px 15px 5px;
+    /* 4px 15px 5px; */ }
   .aui #navigation .nav .dropdown-menu {
     background: #8096b1;
     border-width: 0;
